@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivyjsgit
-- 👀 I’m interested in security stuff, Python, and Linux
-- 🌱 I’m currently learning Cucumber
+- 👀 I’m interested in security, SwiftUI, and Linux
+- 🌱 I’m currently learning UIKit
 - 📫 How to reach me ivyjshdx@gmail.com
 
 <!---
