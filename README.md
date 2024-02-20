@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ivyjsgit
-- 👀 I’m interested in security, SwiftUI, and Linux
-- 🌱 I’m currently learning UIKit
+- 👀 I’m interested in iOS Development and Linux
 - 📫 How to reach me ivyjshdx@gmail.com
 
 <!---
